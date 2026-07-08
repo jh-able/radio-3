@@ -6,13 +6,13 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Firebase & Firestore Configuration ---
   // ==========================================
   const firebaseConfig = {
-    apiKey: "AIzaSyCri_QkHRJqZgzZqdcoWxyF9kFuHCpDGUI",
-    authDomain: "radio-f79f9.firebaseapp.com",
-    projectId: "radio-f79f9",
-    storageBucket: "radio-f79f9.firebasestorage.app",
-    messagingSenderId: "4987890307",
-    appId: "1:4987890307:web:f2a9330a7bb1c52c9649b6"
-  };
+  apiKey: "AIzaSyD_1axhKi2ebnlhtGNIPk6SEVw0MHv8kLA",
+  authDomain: "radio-3-b0293.firebaseapp.com",
+  projectId: "radio-3-b0293",
+  storageBucket: "radio-3-b0293.firebasestorage.app",
+  messagingSenderId: "1086612322791",
+  appId: "1:1086612322791:web:c6b2ab1f7bc5d6fb3f2542"
+};
 
   // Firebase 및 Firestore 초기화
   firebase.initializeApp(firebaseConfig);
